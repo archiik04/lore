@@ -50,7 +50,7 @@ npm run dev
 
 **`backend/.env`**
 ```env
-OPENAI_API_KEY=
+AI_API_KEY=
 TAVILY_API_KEY=
 DATABASE_URL=
 PORT=3001
